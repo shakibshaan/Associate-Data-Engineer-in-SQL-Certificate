@@ -13,11 +13,6 @@ I recently completed the **Associate Data Engineer in SQL** course on **DataCamp
 - **Completion Date:** 02 MAY 2026  
 - **Credential ID / Link:** [(https://www.datacamp.com/completed/statement-of-accomplishment/track/5280946c8b48d4d15dde2feca6395d1efcaf1643)]  
 
-![Certificate](./certificate.png)  
-*Note: Replace `certificate.png` with your certificate image in the repository.*
-
----
-
 ## 🛠️ Skills Acquired
 
 Through this course, I have gained hands-on experience in:
